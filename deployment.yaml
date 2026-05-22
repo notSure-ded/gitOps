@@ -20,7 +20,7 @@ spec:
       containers:
       - name: flask-app
 
-        image: dudacr2026xyz.azurecr.io/flask-app:3
+        image: dudacr2026xyz.azurecr.io/flask-app:4
 
         ports:
         - containerPort: 5000
